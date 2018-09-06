@@ -1,4 +1,3 @@
-# stackoverflow-data-analysis
 # Project: Q&A from Stack Overflow  
     
 Term: Fall 2016
